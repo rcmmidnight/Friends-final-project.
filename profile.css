@@ -1,0 +1,146 @@
+.profile-body {
+    background-color: black;
+}
+.img-fluid {
+    width: 150px;
+}
+
+.nav-item {
+    margin-left: 25px;
+    margin-top: 5px;
+}
+
+.navbar {
+    background-color: rgb(221, 221, 221);
+    border-radius: 15px;
+}
+
+.navbar-nav .nav-link ion-icon {
+    font-size: 40px;
+    margin-top: -10px;
+}
+
+.icon-h4 {
+    margin-left: 50px;
+    margin-top: -45px;
+}
+
+.d-flex {
+    width: 600px;
+}
+
+a :hover {
+    color: white;
+}
+
+.nav-link a.active {
+    background-color: blue;
+    color: white;
+    border: 1px solid #4CAF50;
+}
+
+a:hover:not(.active) {
+  background-color: #ddd;
+}
+
+.card {
+    width: 900px;
+    border-radius: 25px;
+    border-radius: 5px;
+    background-color: rgb(221, 221, 221);
+}
+
+.card-img-top {
+    margin-top: 5px;
+    width: 900px;
+    height: 300px;
+    border-radius: 25px;
+}
+
+.news-card {
+    margin-bottom: 20px;
+    background-color: rgb(221, 221, 221);
+}
+.news-card img {
+    max-height: 300px;
+    object-fit: cover;
+}
+.profile-pic {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-top: -150px;
+    border-color: black;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 1.5);
+}
+.post-icon {
+    font-size: 50px;
+    margin-top: 20px;
+}
+
+hr {
+    border-width: 5px;
+}
+
+.back {
+    color: black;
+}
+
+a :hover {
+    color: white;
+}
+
+.profile-name {
+margin-left: 60px;
+margin-top: -45px;
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+text-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+}
+
+.card-title {
+    font-size: 50px;
+    margin-top: -20px;
+}
+
+.bottom {
+    margin-top: 60px;
+}
+
+.card-text h5 {
+    margin-bottom: 25px;
+}
+
+.carousel-inner {
+    border-radius: 50px;
+}
+
+.carousel {
+    margin-bottom: 30px;
+}
+
+.btn {
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 1.5);
+    margin-right: 20px;
+    margin-top: 15px;
+    margin-bottom: -10px;
+    background-color: rgb(153, 153, 153);
+    border-color: black;
+}
+
+.text-area {
+    width: 400px;
+    border-radius: 15px;
+}
+
+.post-text {
+    margin-top: 10px;
+    margin-bottom: 25px;
+}
+
+.btn-post {
+    margin-left: 15px;
+    margin-top: 8px;
+    width: 80px;
+    height: 40px;
+}
